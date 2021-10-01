@@ -36,11 +36,11 @@
   
   ![image](https://user-images.githubusercontent.com/20172962/132559617-c85ec938-a3fa-4775-b2a9-c81d7fdea8f1.png)</p>
   
-<p>✔ Number of available vehicles</p>
-<p>A card was created to show the total of available cars and a tooltip showing which type of cars are available in a pie chart.</p>
+<p>✔ Número de Veículos disponíveis ? </p>
+<p>Um cartão foi criado indicando o número de veículos disponíceis e uma dica de ferramenta mostrando qual é o tipo de veículo.</p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132559704-e5d4cf9a-b894-4efd-b6c8-788be2fd1ddb.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculo_2.png)</p>
   
 <p style="text-align: justify;">
   
