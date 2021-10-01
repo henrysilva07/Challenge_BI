@@ -14,7 +14,7 @@
   ![image](https://user-images.githubusercontent.com/20172962/132557228-52a23360-5999-4659-95cf-23fc47afc8c6.png)</p>
   
 <p>✔ Quantas entregas foram realizadas no período?</p>
-<p>Foi criado um cartão para indicar o número total de pedidos no período selecionado.</p>
+<p>Foi criado um cartão para indicar o número total de pedidos no período selecionado. Além disso, uma dica de ferramenta foi adicionada para informar o número de entraga por tipo de veículo</p>
 <p style="text-align: justify;">
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Total_pedidos.png)</p>
