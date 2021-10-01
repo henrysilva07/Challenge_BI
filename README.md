@@ -44,7 +44,7 @@
   
 <p style="text-align: justify;">
   
-   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculo_2.png)</p>
+   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculos_2.png)</p>
   
 <p>✔ Calculate S2D (Ship to Door) median by month</p>
 <p>Using a DATEDIFF and analysing the days from when the purchase was done by the Customer and when it was delivered I could find the S2D values.</p>
