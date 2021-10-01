@@ -40,11 +40,11 @@
 <p>Um cartão foi criado indicando o número de veículos disponíceis e uma dica de ferramenta mostrando qual é o tipo de veículo.</p>
 <p style="text-align: justify;">
   
-  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculo_2.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Veiculos.png)</p>
   
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132559738-5e5a7f0e-58aa-4e96-92a9-4aff520a8375.png)</p>
+   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculo_2.png)</p>
   
 <p>✔ Calculate S2D (Ship to Door) median by month</p>
 <p>Using a DATEDIFF and analysing the days from when the purchase was done by the Customer and when it was delivered I could find the S2D values.</p>
