@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Alura Challenge BI</h1>
+<h1 style="text-align: center;">🚀&nbsp;Alura Challenge BI</h1>
 <p style="text-align: justify;">Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
 
 Conceitos e técnicas de BI serão utilizados para desenvolver um dashboard para uma das empresas.
