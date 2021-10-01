@@ -23,11 +23,13 @@
   
   ![image](https://user-images.githubusercontent.com/20172962/132559401-1bf9e945-1a09-44c6-931c-044729d2e2b2.png)</p>
   
-<p>✔ How many customers purchase was not delivered on time ?</p>
-<p>Also a card was created and tooltip to show which vehicle is having more problems to delivery products on time, this can be a good analysis to understand if late deliveries have any relationship with the kind of transport.</p>
+<p>✔ Quantas entregas foram realizadas dentro e fora do prazo?</p>
+<p>Foram criados dois cartões, um para indicar os envios no prazo e atrasados.</p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132559592-1df997b8-b951-476d-84a1-5a8358f1cb6d.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/No_prazo.png)</p>
+  
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/atrasados.png)
   
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">
