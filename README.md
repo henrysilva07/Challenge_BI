@@ -17,7 +17,7 @@
 <p>A Card was created to represent this number including a tooltip that shows which kind of vehicle has more on time deliveries.</p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132559339-fde9a0c5-015d-4e9f-bea1-71e2bab86c31.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Total_pedidos.png)</p>
   
 <p style="text-align: justify;">
   
