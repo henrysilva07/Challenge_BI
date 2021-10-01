@@ -1,5 +1,11 @@
 <h1 style="text-align: center;">Alura Challenge BI</h1>
-<p style="text-align: justify;">This challenge consists in develop skills in Business Intelligence and put in practice all obtained knowledge in Power BI. The challenge will take 4 weeks divided in 3 different projects with different &nbsp;levels of complexity:</p>
+<p style="text-align: justify;">Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
+
+Conceitos e técnicas de BI serão utilizados para desenvolver um dashboard para uma das empresas.
+
+A primeira empresa, Alura Log, necessita analisar dados sobre a logística de entregas do seu negócio.
+A segunda empresa, Alura Shop, precisa de um dashboard para monitorar a campanha de marketing durante um mês.
+A terceira empresa, Alura Store, precisa entender como anda a sua área financeira, pensando em hipóteses.:</p>
 <p>&nbsp;</p>
 <ul>
 <li><a href="#week01">Week 01: Logistics Challenge Dashboard (AluraLog)</a></li>
