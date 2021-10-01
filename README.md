@@ -13,8 +13,8 @@
   
   ![image](https://user-images.githubusercontent.com/20172962/132557228-52a23360-5999-4659-95cf-23fc47afc8c6.png)</p>
   
-<p>✔ How many customers purchases was delivered on time?</p>
-<p>A Card was created to represent this number including a tooltip that shows which kind of vehicle has more on time deliveries.</p>
+<p>✔ Quantas entregas foram realizadas no período?</p>
+<p>Foi criado um cartão para indicar o número total de pedidos no período selecionado.</p>
 <p style="text-align: justify;">
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Total_pedidos.png)</p>
