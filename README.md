@@ -7,8 +7,8 @@
 <li>Week 03 and 04: Coming Soon&hellip;</li>
 </ul>
 <p>&nbsp;</p>
-<h3>🚀&nbsp; <a id="week01"</a>Week 01: Logistics Challenge Dashboard (AluraLog)</h3>
-<p style="text-align: justify;">The Alura Log manager is facing some work changes due to the high demand of logistics services during the pandemic time. She wants to keep the quality of her service and she needs constantly follow up the KPI&rsquo;s to take correct decisions. &nbsp;To help her in this analysis a logistics dashboard was created with the following information provided by the customer dataset.</p>
+<h3>�&nbsp; <a id="week01"</a>Week 01: Logistics Challenge Dashboard (AluraLog)</h3>
+<p style="text-align: justify;">A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área.</p>
 <p style="text-align: justify;">
   
   ![image](https://user-images.githubusercontent.com/20172962/132557228-52a23360-5999-4659-95cf-23fc47afc8c6.png)</p>
