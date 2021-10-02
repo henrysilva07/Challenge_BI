@@ -27,7 +27,7 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
 <p style="text-align: justify;">
   
-  ![image]https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/pedidos_dica.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/pedidos_dica.png)</p>
   
 <p>✔ Quantas entregas foram realizadas dentro e fora do prazo?</p>
 <p>Foram criados dois cartões, um para indicar os envios no prazo e atrasados. Mais uma vez foi adicionada uma dica de ferramenta demostrando o número de entregas por tipo de veículo</p>
@@ -92,3 +92,4 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/relacionamentos.png)</p>
   
+   <li><a href="#Semana 01">Repositório: Dashboard de Logística (AluraLog)</a></li>
