@@ -67,11 +67,11 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/S2D_dica.png)</p>
   
-<p>✔ Show how many occurrences by state</p>
-<p>A Map was created using the longitude and latitude information</p>
+<p>✔ Mostre  o total de ocorrências por Estados </p>
+<p>Um mapa foi criado por utilizando a UF </p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132560903-7022c177-f37f-4e28-8070-76c2c2b46066.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/mapa.png)</p>
   
 <p style="text-align: justify;">Bellow you can see some of the measures I have created to develop the Power BI dashboard.</p>
 <p style="text-align: justify;">
@@ -136,21 +136,6 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
 </tbody>
 </table>
 
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">An extra dashboard was created showing a Pareto table used to show accumulative gains by a rank of the most sold product to the less one. In the same page a bar chart showing the category with more sold items based on quantity.</p>
-<p style="text-align: justify;">A Card also shows the total sales and total of itens sold with a filter by year and month that the user can select when necessary.</p>
-<p style="text-align: justify;">
-  
-  ![image](https://user-images.githubusercontent.com/20172962/132563247-52943a22-9862-4027-be98-39eddb5c098f.png)</p>
-  
-<p style="text-align: justify;">All the ETL process was done in Power Query using the main functions such as : replace values, divide columns by delimiter, change columns type, rename columns, remove empty cells with no relevant information, cleaning spaces, deleting no relevant information. In this process 4 CSV tables was refined as shows bellow:</p>
-<p style="text-align: justify;">
-  
-  ![image](https://user-images.githubusercontent.com/20172962/132563353-d57a5e63-fc22-42ad-bcee-efd1d7a9ed99.png)</p>
-  
-<p>Some relashionships was done between tables, such as the image bellow:</p>
-
-![image](https://user-images.githubusercontent.com/20172962/132605630-f1248905-0e82-4ce4-aee6-da417a95d20d.png)
 
 <h3>🚀&nbsp; <a id="week02"</a>Week 02: Marketing Dashboard (AluraShop)</h3>
 
