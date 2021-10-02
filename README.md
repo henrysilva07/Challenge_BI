@@ -80,11 +80,11 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
  <p style="text-align: justify;"> Para melhor leitura fora criadas duas abas para demonstrar os relacionamentos de cada tabela fato.
    
  <p style="text-align: justify;"> fPEDIDOS
- <p style="text-align: justify;">
+
     ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/fpedidos.png)</p>
   
   <p style="text-align: justify;"> fESTOQUE
-  <p style="text-align: justify;">
+ 
     ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/festoque.png)</p>
   
   
