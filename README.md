@@ -45,7 +45,7 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/pedidos_dica.png)</p>
   
 <p>✔ Número de Veículos disponíveis ? </p>
-<p>Um cartão foi criado indicando o número de veículos disponíceis e uma dica de ferramenta mostrando qual é o tipo de veículo.</p>
+<p>Um cartão foi criado indicando o número de veículos disponíveis e uma dica de ferramenta mostrando qual é o tipo de veículo.</p>
 <p style="text-align: justify;">
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Veiculos.png)</p>
