@@ -75,17 +75,17 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
 <p style="text-align: justify;"> O modelo dimensional utilizado foi o star schema , definindo-se duas tabelas fatos : festoque e fpedidos, que por sua vez, são filtradas pelas dimensões dCalendário , dVeículo e dProduto por meio de um relacionamento um pra muitos. 
   
-  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/relacionamentos.png)
- 
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/relacionamentos.png)</p>
+  
  <p style="text-align: justify;"> Para melhor leitura fora criadas duas abas para demonstrar os relacionamentos de cada tabela fato.
    
  <p style="text-align: justify;"> fPEDIDOS
-   
-    ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/fpedidos.png)
-   
+ <p style="text-align: justify;">
+    ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/fpedidos.png)</p>
+  
   <p style="text-align: justify;"> fESTOQUE
-   
-    ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/festoque.png)
+  <p style="text-align: justify;">
+    ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/festoque.png)</p>
   
   
 <p style="text-align: justify;">Bellow you can see some of the measures I have created to develop the Power BI dashboard.</p>
