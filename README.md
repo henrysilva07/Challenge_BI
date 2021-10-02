@@ -8,16 +8,16 @@ A segunda empresa, Alura Shop, precisa de um dashboard para monitorar a campanha
 A terceira empresa, Alura Store, precisa entender como anda a sua área financeira, pensando em hipóteses.:</p>
 <p>&nbsp;</p>
 <ul>
-<li><a href="#week01">Week 01: Logistics Challenge Dashboard (AluraLog)</a></li>
-<li><a href="#week02">Week 02: Marketing Dashboard (AluraShop)</a></li>
+<li><a href="#Semana 01">Semana 01: Dashboard de Logística (AluraLog)</a></li>
+<li><a href="#Semana02">Semana 02: Dashboard de Marketing (AluraShop)</a></li>
 <li>Week 03 and 04: Coming Soon&hellip;</li>
 </ul>
 <p>&nbsp;</p>
-<h3>&nbsp; <a id="Semana 01"</a>Week 01: Dashboard de Logística (AluraLog)</h3>
+<h3>&nbsp; <a id="Semana 01"</a>Semana 01: Dashboard de Logística (AluraLog)</h3>
 <p style="text-align: justify;">A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área.</p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132557228-52a23360-5999-4659-95cf-23fc47afc8c6.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Painel.png)</p>
   
 <p>✔ Quantas entregas foram realizadas no período?</p>
 <p>Foi criado um cartão para indicar o número total de pedidos no período selecionado. Além disso, uma dica de ferramenta foi adicionada para informar o número de entraga por tipo de veículo</p>
