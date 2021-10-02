@@ -56,16 +56,16 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
 <p>Utilizando um DATEDIFF para calcular a diferença de dias desde a data da compra até data de entrega.</p>
 <p style="text-align: justify;">
   
-  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/S2D.Ppng)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/S2D.png)</p>
   
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132560196-b99b8f56-6b18-40f7-96ad-aa141ca7710d.png)</p>
+
   
-<p style="text-align: justify;">A tooltip was create to show the details by year</p>
+<p style="text-align: justify;">Uma dica de ferramenta foi criada para mostrar o S2D por Ano</p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132560308-715170f5-1904-4765-aea9-cfc34071a1a5.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/S2D_dica.png)</p>
   
 <p>✔ Show how many occurrences by state</p>
 <p>A Map was created using the longitude and latitude information</p>
