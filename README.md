@@ -48,17 +48,18 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Veiculos.png)</p>
 
+  
+<p style="text-align: justify;">
+  
+   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculos_2.png)</p>
+  
+
 <p>✔ Calcule o estoque médio por ano </p>
 <p>Foi utilizado um gráfico de barras com o estoque médio de cada ano.</p>
 <p style="text-align: justify;">
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/Estoque_medio.png)</p>
-
-  
-  
-<p style="text-align: justify;">
-  
-   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculos_2.png)</p>
+    
   
 <p>✔ Calcule S2D (Ship to Door) médio por mês </p>
 <p>Utilizando um DATEDIFF para calcular a diferença de dias desde a data da compra até data de entrega.</p>
