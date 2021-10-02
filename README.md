@@ -52,11 +52,11 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
    ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/veiculos_2.png)</p>
   
-<p>✔ Calculate S2D (Ship to Door) median by month</p>
-<p>Using a DATEDIFF and analysing the days from when the purchase was done by the Customer and when it was delivered I could find the S2D values.</p>
+<p>✔ Calcule S2D (Ship to Door) médio por mês </p>
+<p>Utilizando um DATEDIFF para calcular a diferença de dias desde a data da compra até data de entrega.</p>
 <p style="text-align: justify;">
   
-  ![image](https://user-images.githubusercontent.com/20172962/132560158-0f9a37fa-38d5-4427-8dce-1ba47a98a68e.png)</p>
+  ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/S2D.Ppng)</p>
   
 <p style="text-align: justify;">
   
