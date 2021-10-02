@@ -92,4 +92,4 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
   
   ![image](https://github.com/henrysilva07/Challenge_BI/blob/main/Semana%2001/img/relacionamentos.png)</p>
   
-   <li><a href="#Semana 01">Repositório: Dashboard de Logística (AluraLog)</a></li>
+  * **Acesso ao Dashboard logístico:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBiNTIzNTktYjgwZS00OWEwLTllZWEtYmE0NGE5YzdhNTRlIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9)
