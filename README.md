@@ -13,7 +13,7 @@ A terceira empresa, Alura Store, precisa entender como anda a sua área financei
 <li>Week 03 and 04: Coming Soon&hellip;</li>
 </ul>
 <p>&nbsp;</p>
-<h3>&nbsp; <a id="week01"</a>Week 01: Logistics Challenge Dashboard (AluraLog)</h3>
+<h3>&nbsp; <a id="Semana 01"</a>Week 01: Dashboard de Logística (AluraLog)</h3>
 <p style="text-align: justify;">A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área.</p>
 <p style="text-align: justify;">
   
